@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+*.pkl
+*.joblib
+.DS_Store
+Thumbs.db
+data/private/
+data/student_records/
