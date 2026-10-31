@@ -1,6 +1,24 @@
-🎓 Student Performance AI
 
-An AI-based student performance analysis and ranking system built with Python and Streamlit. The application helps analyze student marks, calculate academic performance, and identify top-performing students through interactive visualizations.
+<div align="center">
+
+# 🎓 Student Performance AI
+
+### Student Performance Analysis & Ranking System
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+<p>
+An interactive dashboard for analyzing academic performance,
+calculating student rankings, and visualizing results.
+</p>
+
+</div>
+
+---
+
 
 ✨ Features
 
